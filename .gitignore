@@ -1,7 +1,12 @@
 # Default ignored files
 .iml
 .idea
-*/target
+/target
+/model/target/
+/owner/target
+/tests-junit/target
+/tests-testng/target
+
 
 # Compiled class file
 *.class
