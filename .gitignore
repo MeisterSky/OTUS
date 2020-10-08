@@ -3,9 +3,9 @@
 .idea
 /target
 /model/target/
-/owner/target
-/tests-junit/target
-/tests-testng/target
+/owner/target/
+/tests-junit/target/
+/tests-testng/target/
 
 
 # Compiled class file
